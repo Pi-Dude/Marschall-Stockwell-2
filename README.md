@@ -1,4 +1,4 @@
-# Marschall-Stockwell-2
+# Marschall Stockwell-2 Firmware
 Firmware Dump of Stockwell 2 
 
 My Stockwell went silent so i searched quiet a while to get those Files
